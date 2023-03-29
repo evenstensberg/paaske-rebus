@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Rund av 345 til nærmeste hundrer.",
+    "type": "Matte",
+    "svar": "300"
+  },
+  {
+    "question": "Rund av 562 til nærmeste hundrer.",
+    "type": "Matte",
+    "svar": "600"
+  },
+  {
+    "question": "Rund av 51 til nærmeste hundrer.",
+    "type": "Matte",
+    "svar": "100"
+  },
+  {
+    "question": "Et rektangel har en lengde på 5 og en bredde på 3. Hva er arealet?",
+    "type": "Matte",
+    "svar": "15"
+  },
+  {
+    "question": "Et rektangel har en lengde på 8 og en bredde på 6. Hva er arealet?",
+    "type": "Matte",
+    "svar": "48"
+  },
+  {
+    "question": "Hvor mye er 120 dele på 5?",
+    "type": "Matte",
+    "svar": "24"
+  },
+  {
+    "question": "To fedre og to sønner spiste 3 egg til frokost. Hver av dem spiste nøyaktig ett egg. Hvordan kan dette stemme?",
+    "type": "Matte",
+    "svar": "Det er kun tre personer som spiser frokost: en bestefar, en far og et barnebarn. En av fedrene er både sønn (til bestefaren) og far (til barnebarnet)."
+  }
+]

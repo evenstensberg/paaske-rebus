@@ -1,0 +1,12 @@
+{
+  "name": "paaske-rebus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jspdf": "^2.5.1"
+  }
+}
