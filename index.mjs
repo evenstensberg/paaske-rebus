@@ -271,10 +271,4 @@ const fourth_dot_data = 'data:image/png;base64,'+ fourth_dot;
 doc.text(50, 25, 'Tegne 4/4')
 doc.addImage(fourth_dot_data, 'PNG', 15, 40, 180, 160)
 
-doc.addPage();
-
-doc.setFontSize(20)
-doc.text(50, 270, 'Laget av Even Stensberg')
-doc.text(15, 280, 'Vipps 923 32 349 for innsatsen hadde vært fint')
-
 doc.save("rebus.pdf");
