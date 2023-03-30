@@ -116,7 +116,7 @@ doc.text(50, 25, 'Aktivitet')
 
 const aktivitet = [
     "Hopp opp og ned 10 ganger",
-    "Krab rundt i stua i 1 min",
+    "Krabb rundt i stua i 1 min",
     "Lat som du står på ski og skal vinne løpet",
     "Gå en tur ute og prøv å finne en kongle",
     "Spill brettspill med familien",
